@@ -56,6 +56,7 @@ If you have insights, corrections, or suggestions regarding the research, feel f
 - **LinkedIn:** https://www.linkedin.com/in/vanshaj-bindal-487953244/
 
 **Extended thesis under works**
+
 ---
 🚀 **This research aims to bridge quantum gravity and quantum computing—let’s explore the quantum universe together!**
 
