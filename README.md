@@ -19,7 +19,7 @@ The thesis explores how **quantum error correction codes (QECC)** and **tensor n
 
 ### **2️⃣ AdS/CFT and Quantum Information**
 - Investigating how the **AdS/CFT correspondence** encodes bulk information in the CFT boundary.
-- Using **tensor networks (MERA, PEPS)** to model holographic reconstructions.
+- Using **tensor networks (MERA, Perfect tensors)** to model holographic reconstructions.
 
 ### **3️⃣ Applications to Quantum Computing**
 - Studying how holographic quantum error correction can improve **fault-tolerant quantum computation**.
