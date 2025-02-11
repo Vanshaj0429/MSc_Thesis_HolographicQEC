@@ -1,5 +1,7 @@
 # MSc Thesis: Holographic Quantum Error Correction
 
+**This is not a coventional disseration, we were instructed to write a paper style dissertation and were imposed with strict page limits**
+
 ## 📜 Overview
 This repository contains my **MSc Thesis** and **Project Plan** on **Holographic Quantum Error Correction with Tensor Networks**, completed at Cardiff University under the supervision of **Dr. Pieter Naaijkens**.
 
@@ -10,7 +12,7 @@ The thesis explores how **quantum error correction codes (QECC)** and **tensor n
 | File Name | Description |
 |-----------|------------|
 | [MSc_Dissertation_Vanshaj.pdf](MSc_Dissertation_Vanshaj.pdf) | Full MSc dissertation on **Holographic Quantum Error Correction**. |
-| [PXT992_Project_Plan___Final___Vanshaj.pdf](PXT992_Project_Plan___Final___Vanshaj.pdf) | Research plan detailing the objectives, methodology, and timeline for the thesis. |
+| [Project_Plan_Vanshaj.pdf](Project_Plan_Vanshaj.pdf) | Research plan detailing the objectives, methodology, and timeline for the thesis. |
 
 ## 🧑‍🔬 Research Focus
 ### **1️⃣ Holographic Error Correction Codes (HECC)**
@@ -53,6 +55,7 @@ If you have insights, corrections, or suggestions regarding the research, feel f
 - **Email:** vanshajbindal98@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/vanshaj-bindal-487953244/
 
-
+**Extended thesis under works**
 ---
 🚀 **This research aims to bridge quantum gravity and quantum computing—let’s explore the quantum universe together!**
+
